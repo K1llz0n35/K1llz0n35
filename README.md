@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Projects I'm currently working on:
+Online Orders Hub
+Point of Sale system
+
+### Projects I've finished:
+Online Ordering Submission System
+Pong Clone in Lua
+
+#pronouns:
+They/Them
 <!--
 **K1llz0n35/K1llz0n35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
